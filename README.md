@@ -1,6 +1,6 @@
 ### Ola pessoal 👋
 
-###### Sobre o David Correia
+#### Sobre o David Correia
 Estou Cursando Programação FullStack do SejaDev com o Mentor José Fortes, e desenvolvendo vários projetos paralelos nesta área, buscando a cada dia mais conhecimentos. Na luta para transição de carreia para programação.
 
 ### Detalhes
